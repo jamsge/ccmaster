@@ -1,0 +1,3853 @@
+{
+    "Marth": [
+        {
+            "name": "tipper fsmash",
+            "DMG":20,
+            "BKB": 80,
+            "KBG": 70
+        },
+        {
+            "name": "strong dolphin slash",
+            "DMG":13,
+            "BKB": 80,
+            "KBG": 70
+        },
+        {
+            "name": "tipper dsmash",
+            "DMG":16,
+            "BKB": 70,
+            "KBG": 100
+        },
+        {
+            "name": "non-tip dsmash",
+            "DMG":11,
+            "BKB": 70,
+            "KBG": 72
+        },
+        {
+            "name": "dash attack (tip)",
+            "DMG":12,
+            "BKB": 70,
+            "KBG": 55
+        },
+        {
+            "name": "dash attack (near tip)",
+            "DMG":11,
+            "BKB": 70,
+            "KBG": 55
+        },
+        {
+            "name": "blade fsmash",
+            "DMG":14,
+            "BKB": 60,
+            "KBG": 70
+        },
+        {
+            "name": "ftilt (tip)",
+            "DMG":13,
+            "BKB": 60,
+            "KBG": 70
+        },
+        {
+            "name": "utilt (clean tip)",
+            "DMG":13,
+            "BKB": 50,
+            "KBG": 100
+        },
+        {
+            "name": "utilt (early tip)",
+            "DMG":12,
+            "BKB": 50,
+            "KBG": 100
+        },
+        {
+            "name": "utilt (clean near tip)",
+            "DMG":10,
+            "BKB": 40,
+            "KBG": 120
+        },
+        {
+            "name": "utilt (early near tip)",
+            "DMG":9,
+            "BKB": 40,
+            "KBG": 120
+        },
+        {
+            "name": "utilt (early blade)",
+            "DMG":9,
+            "BKB": 40,
+            "KBG": 118
+        },
+        {
+            "name": "nair (2nd hit)",
+            "DMG":10,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "tipper fair",
+            "DMG":13,
+            "BKB": 42,
+            "KBG": 70
+        },
+        {
+            "name": "utilt (clean blade)",
+            "DMG":9,
+            "BKB": 30,
+            "KBG": 118
+        },
+        {
+            "name": "uair (tip)",
+            "DMG":13,
+            "BKB": 40,
+            "KBG": 70
+        },
+        {
+            "name": "near tip dair",
+            "DMG":10,
+            "BKB": 40,
+            "KBG": 70
+        },
+        {
+            "name": "tipper bair",
+            "DMG":13,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "blade fair",
+            "DMG":10,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "uair (blade)",
+            "DMG":10,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "normal bair",
+            "DMG":10,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "tipper dtilt",
+            "DMG":10,
+            "BKB": 50,
+            "KBG": 40
+        },
+        {
+            "name": "ftilt (not tip)",
+            "DMG":9,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "hilt dair",
+            "DMG":9,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "dash attack (blade)",
+            "DMG":9,
+            "BKB": 35,
+            "KBG": 60
+        },
+        {
+            "name": "hilt bair",
+            "DMG":9,
+            "BKB": 25,
+            "KBG": 70
+        },
+        {
+            "name": "annoying ass end of dolphin slash",
+            "DMG":7,
+            "BKB": 20,
+            "KBG": 90
+        },
+        {
+            "name": "shoulder dair",
+            "DMG":9,
+            "BKB": 20,
+            "KBG": 70
+        },
+        {
+            "name": "shoulder bair",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 70
+        },
+        {
+            "name": "near tipper dtilt",
+            "DMG":9,
+            "BKB": 40,
+            "KBG": 40
+        },
+        {
+            "name": "jab (tipper)",
+            "DMG":6,
+            "BKB": 30,
+            "KBG": 60
+        },
+        {
+            "name": "blade dtilt",
+            "DMG":8,
+            "BKB": 25,
+            "KBG": 40
+        },
+        {
+            "name": "side-b 1",
+            "DMG":4,
+            "BKB": 55,
+            "KBG": 25
+        },
+        {
+            "name": "jab (not tip)",
+            "DMG":4,
+            "BKB": 20,
+            "KBG": 50
+        }
+    ],
+    "Fox": [
+
+        {
+            "name": "Get-up Attack",
+            "DMG":"6",
+            "BKB": "80",
+            "KBG": "50"
+        },
+        {
+            "name": "SideB",
+            "DMG":"7",
+            "BKB": "68",
+            "KBG": "60"
+        },
+        {
+            "name": "UpB",
+            "DMG":"14",
+            "BKB": "60",
+            "KBG": "60"
+        },
+        {
+            "name": "Uair",
+            "DMG":"13",
+            "BKB": "40",
+            "KBG": "116"
+        },
+        {
+            "name": "Usmash",
+            "DMG":"18",
+            "BKB": "30",
+            "KBG": "112"
+        },
+        {
+            "name": "Grounded Utilt",
+            "DMG":12,
+            "BKB": 18,
+            "KBG": 140
+        },
+        {
+            "name": "Dtilt",
+            "DMG":"10",
+            "BKB": "25",
+            "KBG": "125"
+        },
+        {
+            "name": "Utilt",
+            "DMG":"9",
+            "BKB": "18",
+            "KBG": "140"
+        },
+        {
+            "name": "Fair5",
+            "DMG":"3",
+            "BKB": "50",
+            "KBG": "100"
+        },
+        {
+            "name": "Fsmash",
+            "DMG":"15",
+            "BKB": "10",
+            "KBG": "105"
+        },
+        {
+            "name": "Bair",
+            "DMG":"15",
+            "BKB": "0",
+            "KBG": "100"
+        },
+        {
+            "name": "Nair",
+            "DMG":"12",
+            "BKB": "10",
+            "KBG": "100"
+        },
+        {
+            "name": "Dash Attack",
+            "DMG":"7",
+            "BKB": "35",
+            "KBG": "90"
+        },
+        {
+            "name": "Ftilt",
+            "DMG":"9",
+            "BKB": "0",
+            "KBG": "100"
+        },
+        {
+            "name": "Soft Nair",
+            "DMG":"9",
+            "BKB": "0",
+            "KBG": "100"
+        },
+        {
+            "name": "Soft Bair",
+            "DMG":"9",
+            "BKB": "0",
+            "KBG": "100"
+        },
+        {
+            "name": "Fair1",
+            "DMG":"7",
+            "BKB": "10",
+            "KBG": "100"
+        },
+        {
+            "name": "Fair3",
+            "DMG":"6",
+            "BKB": "10",
+            "KBG": "100"
+        },
+        {
+            "name": "Dsmash",
+            "DMG":"9",
+            "BKB": "20",
+            "KBG": "65"
+        },
+        {
+            "name": "Soft DA",
+            "DMG":"5",
+            "BKB": "20",
+            "KBG": "90"
+        },
+        {
+            "name": "Fair2",
+            "DMG":"5",
+            "BKB": "10",
+            "KBG": "100"
+        },
+        {
+            "name": "Fair4",
+            "DMG":"5",
+            "BKB": "10",
+            "KBG": "100"
+        },
+        {
+            "name": "Jab1",
+            "DMG":"4",
+            "BKB": "0",
+            "KBG": "100"
+        },
+        {
+            "name": "Jab2",
+            "DMG":"4",
+            "BKB": "0",
+            "KBG": "100"
+        }
+    ],
+    "Falco": [
+
+        {
+            "name": "early fsmash",
+            "DMG":17,
+            "BKB": 40,
+            "KBG": 90
+        },
+        {
+            "name": "dtilt",
+            "DMG":13,
+            "BKB": 25,
+            "KBG": 125
+        },
+        {
+            "name": "early usmash",
+            "DMG":14,
+            "BKB": 25,
+            "KBG": 100
+        },
+        {
+            "name": "utilt",
+            "DMG":9,
+            "BKB": 30,
+            "KBG": 120
+        },
+        {
+            "name": "uair (2nd hit)",
+            "DMG":10,
+            "BKB": 22,
+            "KBG": 120
+        },
+        {
+            "name": "late fsmash",
+            "DMG":14,
+            "BKB": 10,
+            "KBG": 105
+        },
+        {
+            "name": "fair5",
+            "DMG":3,
+            "BKB": 50,
+            "KBG": 100
+        },
+        {
+            "name": "strong DA",
+            "DMG":9,
+            "BKB": 35,
+            "KBG": 90
+        },
+        {
+            "name": "strong bair",
+            "DMG":15,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "dsmash",
+            "DMG":16,
+            "BKB": 20,
+            "KBG": 70
+        },
+        {
+            "name": "late usmash",
+            "DMG":12,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "strong nair",
+            "DMG":12,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "fair1",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "fair2",
+            "DMG":8,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "soft nair",
+            "DMG":9,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "soft bair",
+            "DMG":9,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt",
+            "DMG":9,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "fair3",
+            "DMG":7,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "weak DA",
+            "DMG":6,
+            "BKB": 20,
+            "KBG": 90
+        },
+        {
+            "name": "fair4",
+            "DMG":5,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "jab",
+            "DMG":4,
+            "BKB": 0,
+            "KBG": 100
+        }
+    ],
+    "Sheik": [
+
+        {
+            "name": "up-b",
+            "DMG":12,
+            "BKB": 80,
+            "KBG": 60
+        },
+        {
+            "name": "tipper upsmash",
+            "DMG":17,
+            "BKB": 50,
+            "KBG": 105
+        },
+        {
+            "name": "normal upsmash",
+            "DMG":13,
+            "BKB": 38,
+            "KBG": 100
+        },
+        {
+            "name": "fsmash2",
+            "DMG":10,
+            "BKB": 50,
+            "KBG": 70
+        },
+        {
+            "name": "dsmash1",
+            "DMG":13,
+            "BKB": 35,
+            "KBG": 80
+        },
+        {
+            "name": "strong DA",
+            "DMG":10,
+            "BKB": 34,
+            "KBG": 100
+        },
+        {
+            "name": "strong uair",
+            "DMG":12,
+            "BKB": 15,
+            "KBG": 120
+        },
+        {
+            "name": "ftilt",
+            "DMG":7,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "dair",
+            "DMG":11,
+            "BKB": 30,
+            "KBG": 90
+        },
+        {
+            "name": "dsmash (other)",
+            "DMG":10,
+            "BKB": 35,
+            "KBG": 80
+        },
+        {
+            "name": "strong nair",
+            "DMG":14,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "weak uair",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 120
+        },
+        {
+            "name": "fair",
+            "DMG":13,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":8,
+            "BKB": 35,
+            "KBG": 80
+        },
+        {
+            "name": "utilt1",
+            "DMG":8,
+            "BKB": 10,
+            "KBG": 120
+        },
+        {
+            "name": "weak DA",
+            "DMG":7,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "weak nair",
+            "DMG":9,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "utilt2",
+            "DMG":4,
+            "BKB": 10,
+            "KBG": 140
+        },
+        {
+            "name": "jab1",
+            "DMG":4,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "jab2",
+            "DMG":3,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "multi jab",
+            "DMG":1,
+            "BKB": 10,
+            "KBG": 80
+        },
+        {
+            "name": "needle",
+            "DMG":3,
+            "BKB": 24,
+            "KBG": 34
+        },
+        {
+            "name": "bair early back foot",
+            "DMG":14,
+            "BKB": 12,
+            "KBG": 100
+        },
+        {
+            "name": "bair late back foot",
+            "DMG":10,
+            "BKB": 8,
+            "KBG": 100
+        },
+        {
+            "name": "bair early knee",
+            "DMG":10,
+            "BKB": 5,
+            "KBG": 100
+        },
+        {
+            "name": "bair late knee",
+            "DMG":9,
+            "BKB": 4,
+            "KBG": 100
+        },
+        {
+            "name": "bair early butt/front foot",
+            "DMG":8,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "bair late front foot",
+            "DMG":7,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "bair late butt",
+            "DMG":6,
+            "BKB": 0,
+            "KBG": 100
+        }
+    ],
+    "Puff": [
+
+        {
+            "name": "pound",
+            "DMG":13,
+            "BKB": 52,
+            "KBG": 75
+        },
+        {
+            "name": "utilt",
+            "DMG":9,
+            "BKB": 40,
+            "KBG": 120
+        },
+        {
+            "name": "strong fsmash",
+            "DMG":17,
+            "BKB": 10,
+            "KBG": 118
+        },
+        {
+            "name": "weak fsmash",
+            "DMG":8,
+            "BKB": 40,
+            "KBG": 120
+        },
+        {
+            "name": "usmash",
+            "DMG":14,
+            "BKB": 20,
+            "KBG": 110
+        },
+        {
+            "name": "rollout (ground)",
+            "DMG":10,
+            "BKB": 30,
+            "KBG": 120
+        },
+        {
+            "name": "rollout (air)",
+            "DMG":10,
+            "BKB": 30,
+            "KBG": 102
+        },
+        {
+            "name": "strong DA",
+            "DMG":12,
+            "BKB": 16,
+            "KBG": 100
+        },
+        {
+            "name": "strong fair",
+            "DMG":12,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "bair",
+            "DMG":12,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt",
+            "DMG":10,
+            "BKB": 8,
+            "KBG": 100
+        },
+        {
+            "name": "weak DA",
+            "DMG":8,
+            "BKB": 8,
+            "KBG": 100
+        },
+        {
+            "name": "strong nair",
+            "DMG":12,
+            "BKB": 10,
+            "KBG": 70
+        },
+        {
+            "name": "weak nair",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 80
+        },
+        {
+            "name": "weak fair",
+            "DMG":7,
+            "BKB": 10,
+            "KBG": 80
+        },
+        {
+            "name": "dtilt",
+            "DMG":10,
+            "BKB": 40,
+            "KBG": 30
+        },
+        {
+            "name": "jab2",
+            "DMG":3,
+            "BKB": 16,
+            "KBG": 50
+        },
+        {
+            "name": "jab1",
+            "DMG":3,
+            "BKB": 8,
+            "KBG": 50
+        }
+    ],
+    "Peach": [
+
+        {
+            "name": "club (tipper)",
+            "DMG":17,
+            "BKB": 70,
+            "KBG": 50
+        },
+        {
+            "name": "early DA",
+            "DMG":12,
+            "BKB": 70,
+            "KBG": 70
+        },
+        {
+            "name": "racket (tip)",
+            "DMG":12,
+            "BKB": 75,
+            "KBG": 35
+        },
+        {
+            "name": "fair",
+            "DMG":15,
+            "BKB": 60,
+            "KBG": 70
+        },
+        {
+            "name": "usmash (shoulder)",
+            "DMG":19,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "usmash (hand)",
+            "DMG":15,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "pan (tip)",
+            "DMG":17,
+            "BKB": 50,
+            "KBG": 60
+        },
+        {
+            "name": "pan (else)",
+            "DMG":15,
+            "BKB": 50,
+            "KBG": 60
+        },
+        {
+            "name": "racket (else)",
+            "DMG":12,
+            "BKB": 65,
+            "KBG": 35
+        },
+        {
+            "name": "dsmash (outer)",
+            "DMG":14,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "utilt",
+            "DMG":12,
+            "BKB": 48,
+            "KBG": 72
+        },
+        {
+            "name": "strong nair",
+            "DMG":14,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "club (else)",
+            "DMG":13,
+            "BKB": 50,
+            "KBG": 50
+        },
+        {
+            "name": "dsmash (inner)",
+            "DMG":12,
+            "BKB": 35,
+            "KBG": 80
+        },
+        {
+            "name": "ftilt (early)",
+            "DMG":11,
+            "BKB": 35,
+            "KBG": 85
+        },
+        {
+            "name": "uair",
+            "DMG":14,
+            "BKB": 0,
+            "KBG": 120
+        },
+        {
+            "name": "usmash (base)",
+            "DMG":8,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "strong bair",
+            "DMG":14,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (late)",
+            "DMG":6,
+            "BKB": 55,
+            "KBG": 50
+        },
+        {
+            "name": "weak bair",
+            "DMG":10,
+            "BKB": 10,
+            "KBG": 90
+        },
+        {
+            "name": "weak nair",
+            "DMG":10,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "late DA",
+            "DMG":8,
+            "BKB": 20,
+            "KBG": 70
+        },
+        {
+            "name": "jab2",
+            "DMG":2,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "dair (toes)",
+            "DMG":3,
+            "BKB": 16,
+            "KBG": 50
+        },
+        {
+            "name": "dair (butt)",
+            "DMG":3,
+            "BKB": 12,
+            "KBG": 50
+        }
+    ],
+    "Falcon": [
+
+        {
+            "name": "landing down-b",
+            "DMG":9,
+            "BKB": 80,
+            "KBG": 20
+        },
+        {
+            "name": "raptor boost",
+            "DMG":7,
+            "BKB": 78,
+            "KBG": 80
+        },
+        {
+            "name": "falcon punch",
+            "DMG":27,
+            "BKB": 30,
+            "KBG": 102
+        },
+        {
+            "name": "fsmash (u)",
+            "DMG":21,
+            "BKB": 24,
+            "KBG": 100
+        },
+        {
+            "name": "fsmash (s)",
+            "DMG":20,
+            "BKB": 24,
+            "KBG": 100
+        },
+        {
+            "name": "dsmash1",
+            "DMG":18,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "utilt",
+            "DMG":13,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "down-b (early)",
+            "DMG":15,
+            "BKB": 50,
+            "KBG": 70
+        },
+        {
+            "name": "fsmash (d)",
+            "DMG":19,
+            "BKB": 24,
+            "KBG": 100
+        },
+        {
+            "name": "usmash2",
+            "DMG":13,
+            "BKB": 30,
+            "KBG": 128
+        },
+        {
+            "name": "strong knee",
+            "DMG":18,
+            "BKB": 24,
+            "KBG": 100
+        },
+        {
+            "name": "usmash1 (above cf)",
+            "DMG":14,
+            "BKB": 30,
+            "KBG": 105
+        },
+        {
+            "name": "dsmash2",
+            "DMG":16,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "strong bair",
+            "DMG":14,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "nair2",
+            "DMG":7,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (up)",
+            "DMG":12,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "uair (approaching)",
+            "DMG":12,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "strong reverse bair",
+            "DMG":14,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":12,
+            "BKB": 25,
+            "KBG": 75
+        },
+        {
+            "name": "strong DA",
+            "DMG":10,
+            "BKB": 22,
+            "KBG": 90
+        },
+        {
+            "name": "down-b (latest)",
+            "DMG":9,
+            "BKB": 50,
+            "KBG": 50
+        },
+        {
+            "name": "ftilt (straight)",
+            "DMG":11,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "jab3",
+            "DMG":8,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "weak bair",
+            "DMG":8,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "weak knee",
+            "DMG":6,
+            "BKB": 35,
+            "KBG": 80
+        },
+        {
+            "name": "ftilt (down)",
+            "DMG":10,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "uair (plat)",
+            "DMG":10,
+            "BKB": 8,
+            "KBG": 80
+        },
+        {
+            "name": "weak reverse bair",
+            "DMG":8,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "jab3 late",
+            "DMG":6,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "weak DA",
+            "DMG":7,
+            "BKB": 10,
+            "KBG": 50
+        },
+        {
+            "name": "multi jab",
+            "DMG":1,
+            "BKB": 0,
+            "KBG": 70
+        }
+    ],
+    "ICs": [
+
+        {
+            "name": "DA",
+            "DMG":9,
+            "BKB": 90,
+            "KBG": 40
+        },
+        {
+            "name": "ice block hammer",
+            "DMG":9,
+            "BKB": 80,
+            "KBG": 60
+        },
+        {
+            "name": "usmash",
+            "DMG":11,
+            "BKB": 50,
+            "KBG": 128
+        },
+        {
+            "name": "dsmash",
+            "DMG":12,
+            "BKB": 50,
+            "KBG": 110
+        },
+        {
+            "name": "fsmash",
+            "DMG":14,
+            "BKB": 40,
+            "KBG": 105
+        },
+        {
+            "name": "bair",
+            "DMG":12,
+            "BKB": 30,
+            "KBG": 110
+        },
+        {
+            "name": "fair",
+            "DMG":10,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "utilt (final)",
+            "DMG":7,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "strong uair",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 140
+        },
+        {
+            "name": "ftilt",
+            "DMG":8,
+            "BKB": 26,
+            "KBG": 100
+        },
+        {
+            "name": "weak uair",
+            "DMG":7,
+            "BKB": 10,
+            "KBG": 140
+        },
+        {
+            "name": "nair",
+            "DMG":8,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":5,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "side b",
+            "DMG":4,
+            "BKB": 5,
+            "KBG": 130
+        },
+        {
+            "name": "jab2",
+            "DMG":4,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "jab1",
+            "DMG":2,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "ice block",
+            "DMG":5,
+            "BKB": 5,
+            "KBG": 50
+        },
+        {
+            "name": "utilt (mutli-hit)",
+            "DMG":1,
+            "BKB": 15,
+            "KBG": 20
+        }
+    ],
+    "Popo": [
+
+        {
+            "name": "DA",
+            "DMG":9,
+            "BKB": 90,
+            "KBG": 40
+        },
+        {
+            "name": "ice block hammer",
+            "DMG":9,
+            "BKB": 80,
+            "KBG": 60
+        },
+        {
+            "name": "usmash",
+            "DMG":11,
+            "BKB": 50,
+            "KBG": 128
+        },
+        {
+            "name": "dsmash",
+            "DMG":12,
+            "BKB": 50,
+            "KBG": 110
+        },
+        {
+            "name": "fsmash",
+            "DMG":14,
+            "BKB": 40,
+            "KBG": 105
+        },
+        {
+            "name": "bair",
+            "DMG":12,
+            "BKB": 30,
+            "KBG": 110
+        },
+        {
+            "name": "utilt (final)",
+            "DMG":7,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "strong uair",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 140
+        },
+        {
+            "name": "ftilt",
+            "DMG":8,
+            "BKB": 26,
+            "KBG": 100
+        },
+        {
+            "name": "weak uair",
+            "DMG":7,
+            "BKB": 10,
+            "KBG": 140
+        },
+        {
+            "name": "nair",
+            "DMG":8,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":5,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "side b",
+            "DMG":4,
+            "BKB": 5,
+            "KBG": 130
+        },
+        {
+            "name": "jab2",
+            "DMG":4,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "jab1",
+            "DMG":2,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "ice block",
+            "DMG":5,
+            "BKB": 5,
+            "KBG": 50
+        },
+        {
+            "name": "utilt (mutli-hit)",
+            "DMG":1,
+            "BKB": 15,
+            "KBG": 20
+        }
+    ],
+    "Samus": [
+
+        {
+            "name": "dsmash1",
+            "DMG":16,
+            "BKB": 110,
+            "KBG": 50
+        },
+        {
+            "name": "dsmash2",
+            "DMG":15,
+            "BKB": 90,
+            "KBG": 40
+        },
+        {
+            "name": "dtilt",
+            "DMG":14,
+            "BKB": 80,
+            "KBG": 60
+        },
+        {
+            "name": "sweetspot bair",
+            "DMG":14,
+            "BKB": 42,
+            "KBG": 100
+        },
+        {
+            "name": "fsmash (up)",
+            "DMG":15,
+            "BKB": 30,
+            "KBG": 104
+        },
+        {
+            "name": "fsmash (straight)",
+            "DMG":14,
+            "BKB": 30,
+            "KBG": 104
+        },
+        {
+            "name": "fsmash (down)",
+            "DMG":13,
+            "BKB": 30,
+            "KBG": 104
+        },
+        {
+            "name": "super missile",
+            "DMG":12,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "strong DA",
+            "DMG":13,
+            "BKB": 22,
+            "KBG": 105
+        },
+        {
+            "name": "weak bair",
+            "DMG":10,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "strong nair",
+            "DMG":14,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "last hit uair",
+            "DMG":4,
+            "BKB": 40,
+            "KBG": 120
+        },
+        {
+            "name": "weak DA",
+            "DMG":9,
+            "BKB": 22,
+            "KBG": 105
+        },
+        {
+            "name": "ftilt (up)",
+            "DMG":11,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (straight)",
+            "DMG":10,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "weak nair",
+            "DMG":10,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (down)",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "jab2",
+            "DMG":7,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "fair hits",
+            "DMG":5,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "first hit tipper uair",
+            "DMG":3,
+            "BKB": 0,
+            "KBG": 130
+        },
+        {
+            "name": "jab1",
+            "DMG":3,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "2-5 tipper uair",
+            "DMG":1,
+            "BKB": 0,
+            "KBG": 130
+        },
+        {
+            "name": "bomb+explosion",
+            "DMG":4,
+            "BKB": 10,
+            "KBG": 45
+        },
+        {
+            "name": "bomb",
+            "DMG":4,
+            "BKB": 10,
+            "KBG": 45
+        },
+        {
+            "name": "zair",
+            "DMG":4,
+            "BKB": 15,
+            "KBG": 40
+        }
+    ],
+    "Yoshi": [
+
+        {
+            "name": "utilt",
+            "DMG":10,
+            "BKB": 72,
+            "KBG": 40
+        },
+        {
+            "name": "aerial down-b",
+            "DMG":16,
+            "BKB": 50,
+            "KBG": 98
+        },
+        {
+            "name": "grounded down-b",
+            "DMG":14,
+            "BKB": 46,
+            "KBG": 96
+        },
+        {
+            "name": "dsmash1 (normal)",
+            "DMG":14,
+            "BKB": 50,
+            "KBG": 75
+        },
+        {
+            "name": "dsmash2 (tip)",
+            "DMG":12,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "fsmash",
+            "DMG":16,
+            "BKB": 32,
+            "KBG": 94
+        },
+        {
+            "name": "dsmash2 (normal)",
+            "DMG":12,
+            "BKB": 50,
+            "KBG": 75
+        },
+        {
+            "name": "dsmash1 (tip)",
+            "DMG":14,
+            "BKB": 50,
+            "KBG": 60
+        },
+        {
+            "name": "ftilt (up)",
+            "DMG":13,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "ftilt (side)",
+            "DMG":12,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "uair",
+            "DMG":13,
+            "BKB": 25,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (down)",
+            "DMG":11,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "strong nair",
+            "DMG":14,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "bair4",
+            "DMG":4,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "DA",
+            "DMG":9,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "egg",
+            "DMG":12,
+            "BKB": 45,
+            "KBG": 40
+        },
+        {
+            "name": "weak nair",
+            "DMG":10,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "bair1",
+            "DMG":7,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "side-b",
+            "DMG":4,
+            "BKB": 43,
+            "KBG": 70
+        },
+        {
+            "name": "jab2",
+            "DMG":5,
+            "BKB": 8,
+            "KBG": 120
+        },
+        {
+            "name": "bair2",
+            "DMG":6,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "bair3",
+            "DMG":5,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "down-b (stars)",
+            "DMG":1,
+            "BKB": 50,
+            "KBG": 50
+        },
+        {
+            "name": "jab1",
+            "DMG":3,
+            "BKB": 8,
+            "KBG": 50
+        }
+    ],
+    "Pikachu": [
+
+        {
+            "name": "early uair",
+            "DMG":4,
+            "BKB": 100,
+            "KBG": 60
+        },
+        {
+            "name": "late uair",
+            "DMG":4,
+            "BKB": 80,
+            "KBG": 60
+        },
+        {
+            "name": "dsmash (last)",
+            "DMG":3,
+            "BKB": 70,
+            "KBG": 170
+        },
+        {
+            "name": "strong usmash",
+            "DMG":18,
+            "BKB": 40,
+            "KBG": 110
+        },
+        {
+            "name": "strong fsmash",
+            "DMG":21,
+            "BKB": 25,
+            "KBG": 92
+        },
+        {
+            "name": "mid usmash",
+            "DMG":13,
+            "BKB": 30,
+            "KBG": 110
+        },
+        {
+            "name": "strong bair",
+            "DMG":12,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "dair",
+            "DMG":12,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "strong nair",
+            "DMG":12,
+            "BKB": 18,
+            "KBG": 100
+        },
+        {
+            "name": "utilt",
+            "DMG":7,
+            "BKB": 25,
+            "KBG": 124
+        },
+        {
+            "name": "weak bair",
+            "DMG":9,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "DA",
+            "DMG":8,
+            "BKB": 40,
+            "KBG": 70
+        },
+        {
+            "name": "dsmash (multi)",
+            "DMG":2,
+            "BKB": 70,
+            "KBG": 30
+        },
+        {
+            "name": "ftilt (up)",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (side)",
+            "DMG":8,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "weak nair",
+            "DMG":9,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":7,
+            "BKB": 12,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (down)",
+            "DMG":7,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "late usmash",
+            "DMG":7,
+            "BKB": 5,
+            "KBG": 48
+        }
+    ],
+    "Luigi": [
+
+        {
+            "name": "misfire",
+            "DMG":25,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "usmash",
+            "DMG":17,
+            "BKB": 35,
+            "KBG": 98
+        },
+        {
+            "name": "dsmash",
+            "DMG":17,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "fair",
+            "DMG":12,
+            "BKB": 43,
+            "KBG": 100
+        },
+        {
+            "name": "down-b 2",
+            "DMG":12,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "fsmash (up)",
+            "DMG":14,
+            "BKB": 20,
+            "KBG": 135
+        },
+        {
+            "name": "fsmash (side)",
+            "DMG":13,
+            "BKB": 20,
+            "KBG": 135
+        },
+        {
+            "name": "fsmash (down)",
+            "DMG":12,
+            "BKB": 20,
+            "KBG": 135
+        },
+        {
+            "name": "dair",
+            "DMG":16,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "strong nair",
+            "DMG":15,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "utilt",
+            "DMG":9,
+            "BKB": 30,
+            "KBG": 125
+        },
+        {
+            "name": "down-b 1",
+            "DMG":8,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "bair",
+            "DMG":11,
+            "BKB": 12,
+            "KBG": 100
+        },
+        {
+            "name": "uair",
+            "DMG":13,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "weak nair",
+            "DMG":8,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "normal side-b",
+            "DMG":10,
+            "BKB": 20,
+            "KBG": 80
+        },
+        {
+            "name": "ftilt (up/side)",
+            "DMG":10,
+            "BKB": 2,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 80
+        },
+        {
+            "name": "jab3",
+            "DMG":5,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "neutral-b",
+            "DMG":3,
+            "BKB": 5,
+            "KBG": 25
+        }
+    ],
+    "Doc": [
+
+        {
+            "name": "down-b last hit",
+            "DMG":4,
+            "BKB": 74,
+            "KBG": 120
+        },
+        {
+            "name": "fair",
+            "DMG":17,
+            "BKB": 50,
+            "KBG": 100
+        },
+        {
+            "name": "dsmash1",
+            "DMG":18,
+            "BKB": 45,
+            "KBG": 75
+        },
+        {
+            "name": "fsmash",
+            "DMG":19,
+            "BKB": 30,
+            "KBG": 97
+        },
+        {
+            "name": "usmash",
+            "DMG":16,
+            "BKB": 35,
+            "KBG": 95
+        },
+        {
+            "name": "strong DA",
+            "DMG":9,
+            "BKB": 70,
+            "KBG": 30
+        },
+        {
+            "name": "dsmash2",
+            "DMG":15,
+            "BKB": 40,
+            "KBG": 75
+        },
+        {
+            "name": "up-b last coin",
+            "DMG":3,
+            "BKB": 40,
+            "KBG": 160
+        },
+        {
+            "name": "late nair",
+            "DMG":14,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "weak DA",
+            "DMG":8,
+            "BKB": 60,
+            "KBG": 50
+        },
+        {
+            "name": "late utilt",
+            "DMG":8,
+            "BKB": 30,
+            "KBG": 118
+        },
+        {
+            "name": "early nair",
+            "DMG":10,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "early utilt",
+            "DMG":10,
+            "BKB": 20,
+            "KBG": 95
+        },
+        {
+            "name": "early bair",
+            "DMG":8,
+            "BKB": 43,
+            "KBG": 65
+        },
+        {
+            "name": "ftilt (up)",
+            "DMG":9,
+            "BKB": 11,
+            "KBG": 100
+        },
+        {
+            "name": "late bair",
+            "DMG":7,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":9,
+            "BKB": 20,
+            "KBG": 82
+        },
+        {
+            "name": "uair",
+            "DMG":10,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (straight)",
+            "DMG":8,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "jab3",
+            "DMG":6,
+            "BKB": 18,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (down)",
+            "DMG":7,
+            "BKB": 9,
+            "KBG": 100
+        },
+        {
+            "name": "pill",
+            "DMG":8,
+            "BKB": 5,
+            "KBG": 25
+        }
+    ],
+    "Mario": [
+
+        {
+            "name": "strong DA",
+            "DMG":9,
+            "BKB": 70,
+            "KBG": 50
+        },
+        {
+            "name": "last hit down-b",
+            "DMG":5,
+            "BKB": 60,
+            "KBG": 115
+        },
+        {
+            "name": "sweetspot fsmash",
+            "DMG":18,
+            "BKB": 25,
+            "KBG": 95
+        },
+        {
+            "name": "usmash",
+            "DMG":15,
+            "BKB": 32,
+            "KBG": 97
+        },
+        {
+            "name": "dsmash1",
+            "DMG":16,
+            "BKB": 40,
+            "KBG": 75
+        },
+        {
+            "name": "utilt",
+            "DMG":8,
+            "BKB": 26,
+            "KBG": 122
+        },
+        {
+            "name": "strong nair",
+            "DMG":12,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "sourspot fsmash",
+            "DMG":11,
+            "BKB": 25,
+            "KBG": 96
+        },
+        {
+            "name": "dsmash2",
+            "DMG":10,
+            "BKB": 35,
+            "KBG": 75
+        },
+        {
+            "name": "strong bair",
+            "DMG":11,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (up)",
+            "DMG":10,
+            "BKB": 6,
+            "KBG": 100
+        },
+        {
+            "name": "weak nair",
+            "DMG":8,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "weak bair",
+            "DMG":9,
+            "BKB": 7,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (straight)",
+            "DMG":9,
+            "BKB": 6,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 80
+        },
+        {
+            "name": "jab3",
+            "DMG":5,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "weak DA",
+            "DMG":7,
+            "BKB": 45,
+            "KBG": 30
+        },
+        {
+            "name": "fireball",
+            "DMG":6,
+            "BKB": 5,
+            "KBG": 25
+        }
+    ],
+    "YL": [
+
+        {
+            "name": "dtilt (non-meteor tip)",
+            "DMG":7,
+            "BKB": 80,
+            "KBG": 50
+        },
+        {
+            "name": "usmash3 (worst case)",
+            "DMG":8,
+            "BKB": 70,
+            "KBG": 70
+        },
+        {
+            "name": "dair",
+            "DMG":14,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "fsmash2",
+            "DMG":12,
+            "BKB": 30,
+            "KBG": 120
+        },
+        {
+            "name": "dsmash1",
+            "DMG":13,
+            "BKB": 30,
+            "KBG": 90
+        },
+        {
+            "name": "uair",
+            "DMG":15,
+            "BKB": 25,
+            "KBG": 85
+        },
+        {
+            "name": "dsmash2",
+            "DMG":12,
+            "BKB": 25,
+            "KBG": 90
+        },
+        {
+            "name": "utilt (worst case)",
+            "DMG":8,
+            "BKB": 20,
+            "KBG": 128
+        },
+        {
+            "name": "strong nair",
+            "DMG":12,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (worst case)",
+            "DMG":12,
+            "BKB": 5,
+            "KBG": 100
+        },
+        {
+            "name": "strong fair (worst case)",
+            "DMG":12,
+            "BKB": 5,
+            "KBG": 100
+        },
+        {
+            "name": "DA (worst case)",
+            "DMG":11,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "boomerang (worst case)",
+            "DMG":11,
+            "BKB": 55,
+            "KBG": 30
+        },
+        {
+            "name": "weak nair",
+            "DMG":8,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "bair2",
+            "DMG":7,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "bair1",
+            "DMG":7,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "weak fair (worst case)",
+            "DMG":8,
+            "BKB": 0,
+            "KBG": 90
+        },
+        {
+            "name": "jab3",
+            "DMG":5,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "zair",
+            "DMG":5,
+            "BKB": 40,
+            "KBG": 40
+        },
+        {
+            "name": "jab1",
+            "DMG":3,
+            "BKB": 10,
+            "KBG": 60
+        },
+        {
+            "name": "jab2",
+            "DMG":2,
+            "BKB": 10,
+            "KBG": 60
+        }
+    ],
+    "GnW": [
+
+        {
+            "name": "bair (landing)",
+            "DMG":3,
+            "BKB": 80,
+            "KBG": 60
+        },
+        {
+            "name": "dtilt",
+            "DMG":12,
+            "BKB": 65,
+            "KBG": 100
+        },
+        {
+            "name": "dsmash (inner)",
+            "DMG":16,
+            "BKB": 60,
+            "KBG": 90
+        },
+        {
+            "name": "strong fsmash",
+            "DMG":18,
+            "BKB": 44,
+            "KBG": 100
+        },
+        {
+            "name": "usmash",
+            "DMG":18,
+            "BKB": 40,
+            "KBG": 96
+        },
+        {
+            "name": "uair2",
+            "DMG":9,
+            "BKB": 55,
+            "KBG": 100
+        },
+        {
+            "name": "DA",
+            "DMG":9,
+            "BKB": 70,
+            "KBG": 30
+        },
+        {
+            "name": "nair",
+            "DMG":16,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "strong fair",
+            "DMG":16,
+            "BKB": 30,
+            "KBG": 80
+        },
+        {
+            "name": "utilt",
+            "DMG":9,
+            "BKB": 30,
+            "KBG": 127
+        },
+        {
+            "name": "dair",
+            "DMG":13,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "weak fsmash",
+            "DMG":6,
+            "BKB": 44,
+            "KBG": 100
+        },
+        {
+            "name": "bair",
+            "DMG":5,
+            "BKB": 60,
+            "KBG": 60
+        },
+        {
+            "name": "up-b",
+            "DMG":6,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "dair (landing)",
+            "DMG":6,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "ftilt",
+            "DMG":10,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "uair1",
+            "DMG":7,
+            "BKB": 12,
+            "KBG": 100
+        },
+        {
+            "name": "frying pan",
+            "DMG":5,
+            "BKB": 60,
+            "KBG": 30
+        },
+        {
+            "name": "weak fair",
+            "DMG":6,
+            "BKB": 10,
+            "KBG": 80
+        },
+        {
+            "name": "dsmash (outer)",
+            "DMG":10,
+            "BKB": 10,
+            "KBG": 50
+        },
+        {
+            "name": "sausage",
+            "DMG":4,
+            "BKB": 20,
+            "KBG": 50
+        }
+    ],
+    "Ganondorf": [
+
+        {
+            "name": "utilt",
+            "DMG":27,
+            "BKB": 110,
+            "KBG": 80
+        },
+        {
+            "name": "warlock punch",
+            "DMG":30,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "dsmash2",
+            "DMG":14,
+            "BKB": 60,
+            "KBG": 110
+        },
+        {
+            "name": "fair",
+            "DMG":17,
+            "BKB": 60,
+            "KBG": 80
+        },
+        {
+            "name": "usmash1",
+            "DMG":22,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "down-b",
+            "DMG":15,
+            "BKB": 60,
+            "KBG": 85
+        },
+        {
+            "name": "side-b",
+            "DMG":17,
+            "BKB": 60,
+            "KBG": 69
+        },
+        {
+            "name": "fsmash (up)",
+            "DMG":24,
+            "BKB": 40,
+            "KBG": 83
+        },
+        {
+            "name": "fsmash (side)",
+            "DMG":22,
+            "BKB": 40,
+            "KBG": 83
+        },
+        {
+            "name": "fsmash (down)",
+            "DMG":20,
+            "BKB": 40,
+            "KBG": 83
+        },
+        {
+            "name": "nair2",
+            "DMG":12,
+            "BKB": 50,
+            "KBG": 100
+        },
+        {
+            "name": "usmash2",
+            "DMG":19,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "aerial side-b",
+            "DMG":16,
+            "BKB": 50,
+            "KBG": 65
+        },
+        {
+            "name": "bair",
+            "DMG":16,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "strong DA",
+            "DMG":14,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "early uair",
+            "DMG":12,
+            "BKB": 35,
+            "KBG": 100
+        },
+        {
+            "name": "nair1",
+            "DMG":12,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":12,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (up)",
+            "DMG":14,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (side)",
+            "DMG":13,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (down)",
+            "DMG":12,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "mid uair",
+            "DMG":10,
+            "BKB": 30,
+            "KBG": 80
+        },
+        {
+            "name": "jab",
+            "DMG":7,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "down-b (landing)",
+            "DMG":12,
+            "BKB": 60,
+            "KBG": 20
+        },
+        {
+            "name": "weak DA",
+            "DMG":10,
+            "BKB": 25,
+            "KBG": 60
+        }
+    ],
+    "Link": [
+
+        {
+            "name": "usmash3",
+            "DMG":10,
+            "BKB": 90,
+            "KBG": 80
+        },
+        {
+            "name": "dtilt (not meteor)",
+            "DMG":11,
+            "BKB": 80,
+            "KBG": 50
+        },
+        {
+            "name": "falling dair",
+            "DMG":22,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "rising dair",
+            "DMG":20,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "fsmash2",
+            "DMG":18,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "up-b first hit",
+            "DMG":15,
+            "BKB": 32,
+            "KBG": 95
+        },
+        {
+            "name": "uair",
+            "DMG":16,
+            "BKB": 25,
+            "KBG": 85
+        },
+        {
+            "name": "utilt",
+            "DMG":9,
+            "BKB": 30,
+            "KBG": 122
+        },
+        {
+            "name": "dsmash1",
+            "DMG":13,
+            "BKB": 26,
+            "KBG": 90
+        },
+        {
+            "name": "fsmash1",
+            "DMG":13,
+            "BKB": 30,
+            "KBG": 83
+        },
+        {
+            "name": "bomb",
+            "DMG":4,
+            "BKB": 60,
+            "KBG": 60
+        },
+        {
+            "name": "back strong nair",
+            "DMG":11,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "DA",
+            "DMG":12,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "fair1",
+            "DMG":13,
+            "BKB": 5,
+            "KBG": 100
+        },
+        {
+            "name": "dsmash2",
+            "DMG":11,
+            "BKB": 20,
+            "KBG": 90
+        },
+        {
+            "name": "ftilt",
+            "DMG":14,
+            "BKB": 5,
+            "KBG": 90
+        },
+        {
+            "name": "front strong nair",
+            "DMG":9,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "bair2",
+            "DMG":7,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "weak nair",
+            "DMG":7,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "boomerang (clean)",
+            "DMG":8,
+            "BKB": 55,
+            "KBG": 30
+        },
+        {
+            "name": "jab3",
+            "DMG":6,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "bair1",
+            "DMG":7,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "fair2",
+            "DMG":8,
+            "BKB": 0,
+            "KBG": 90
+        },
+        {
+            "name": "boomerang (late)",
+            "DMG":6,
+            "BKB": 55,
+            "KBG": 30
+        },
+        {
+            "name": "zair",
+            "DMG":6,
+            "BKB": 30,
+            "KBG": 40
+        },
+        {
+            "name": "jab1",
+            "DMG":5,
+            "BKB": 10,
+            "KBG": 60
+        },
+        {
+            "name": "jab2",
+            "DMG":3,
+            "BKB": 10,
+            "KBG": 60
+        },
+        {
+            "name": "multijab",
+            "DMG":1,
+            "BKB": 15,
+            "KBG": 50
+        },
+        {
+            "name": "boomerang (return)",
+            "DMG":3,
+            "BKB": 25,
+            "KBG": 26
+        }
+    ],
+    "DK": [
+
+        {
+            "name": "up-b hit1 grounded",
+            "DMG":12,
+            "BKB": 60,
+            "KBG": 100
+        },
+        {
+            "name": "fully charged grounded neutral b",
+            "DMG":30,
+            "BKB": 10,
+            "KBG": 90
+        },
+        {
+            "name": "usmash",
+            "DMG":18,
+            "BKB": 40,
+            "KBG": 93
+        },
+        {
+            "name": "dsmash",
+            "DMG":16,
+            "BKB": 35,
+            "KBG": 100
+        },
+        {
+            "name": "fsmash",
+            "DMG":20,
+            "BKB": 22,
+            "KBG": 94
+        },
+        {
+            "name": "early fair",
+            "DMG":16,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "uair",
+            "DMG":14,
+            "BKB": 32,
+            "KBG": 90
+        },
+        {
+            "name": "utilt",
+            "DMG":9,
+            "BKB": 40,
+            "KBG": 105
+        },
+        {
+            "name": "aerial up-b hit1",
+            "DMG":10,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "strong bair",
+            "DMG":13,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (angled up)",
+            "DMG":11,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "strong nair",
+            "DMG":12,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "weak nair",
+            "DMG":10,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "weak bair",
+            "DMG":9,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":7,
+            "BKB": 10,
+            "KBG": 80
+        },
+        {
+            "name": "jab2",
+            "DMG":6,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "jab1",
+            "DMG":4,
+            "BKB": 0,
+            "KBG": 100
+        }
+    ],
+    "Ness": [
+
+        {
+            "name": "DA3",
+            "DMG":4,
+            "BKB": 70,
+            "KBG": 100
+        },
+        {
+            "name": "early PKT2",
+            "DMG":25,
+            "BKB": 60,
+            "KBG": 70
+        },
+        {
+            "name": "tipper fsmash",
+            "DMG":24,
+            "BKB": 50,
+            "KBG": 62
+        },
+        {
+            "name": "dsmash",
+            "DMG":7,
+            "BKB": 70,
+            "KBG": 60
+        },
+        {
+            "name": "PKT1 (head)",
+            "DMG":8,
+            "BKB": 70,
+            "KBG": 50
+        },
+        {
+            "name": "late PKT2",
+            "DMG":20,
+            "BKB": 45,
+            "KBG": 65
+        },
+        {
+            "name": "utilt",
+            "DMG":7,
+            "BKB": 42,
+            "KBG": 126
+        },
+        {
+            "name": "DA1(close)",
+            "DMG":5,
+            "BKB": 60,
+            "KBG": 70
+        },
+        {
+            "name": "strong bair",
+            "DMG":16,
+            "BKB": 16,
+            "KBG": 100
+        },
+        {
+            "name": "uair",
+            "DMG":13,
+            "BKB": 16,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (up)",
+            "DMG":12,
+            "BKB": 12,
+            "KBG": 100
+        },
+        {
+            "name": "strong nair",
+            "DMG":11,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "usmash",
+            "DMG":6,
+            "BKB": 60,
+            "KBG": 45
+        },
+        {
+            "name": "fair final hit",
+            "DMG":5,
+            "BKB": 24,
+            "KBG": 135
+        },
+        {
+            "name": "ftilt (side)",
+            "DMG":11,
+            "BKB": 12,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (down)",
+            "DMG":10,
+            "BKB": 12,
+            "KBG": 100
+        },
+        {
+            "name": "weak bair",
+            "DMG":10,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "weak nair",
+            "DMG":8,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "DA1 (spaced)",
+            "DMG":5,
+            "BKB": 18,
+            "KBG": 100
+        },
+        {
+            "name": "jab3",
+            "DMG":4,
+            "BKB": 16,
+            "KBG": 100
+        },
+        {
+            "name": "fair multihits",
+            "DMG":3,
+            "BKB": 16,
+            "KBG": 100
+        },
+        {
+            "name": "jab1",
+            "DMG":3,
+            "BKB": 8,
+            "KBG": 50
+        },
+        {
+            "name": "jab2",
+            "DMG":2,
+            "BKB": 8,
+            "KBG": 50
+        },
+        {
+            "name": "PKT1 (tail)",
+            "DMG":1,
+            "BKB": 4,
+            "KBG": 40
+        },
+        {
+            "DMG":"PKT=pk thunder (up-b)"
+        }
+    ],
+    "Zelda": [
+
+        {
+            "name": "early head DA",
+            "DMG":13,
+            "BKB": 70,
+            "KBG": 70
+        },
+        {
+            "name": "utilt",
+            "DMG":11,
+            "BKB": 65,
+            "KBG": 105
+        },
+        {
+            "name": "fsmash",
+            "DMG":14,
+            "BKB": 50,
+            "KBG": 98
+        },
+        {
+            "name": "strong fair/bair",
+            "DMG":20,
+            "BKB": 30,
+            "KBG": 96
+        },
+        {
+            "name": "ftilt",
+            "DMG":13,
+            "BKB": 50,
+            "KBG": 88
+        },
+        {
+            "name": "upsmash",
+            "DMG":5,
+            "BKB": 20,
+            "KBG": 210
+        },
+        {
+            "name": "last inner neutral b",
+            "DMG":5,
+            "BKB": 50,
+            "KBG": 100
+        },
+        {
+            "name": "nair",
+            "DMG":5,
+            "BKB": 40,
+            "KBG": 130
+        },
+        {
+            "name": "early DA",
+            "DMG":9,
+            "BKB": 50,
+            "KBG": 70
+        },
+        {
+            "name": "upair",
+            "DMG":13,
+            "BKB": 0,
+            "KBG": 120
+        },
+        {
+            "name": "dsmash1",
+            "DMG":11,
+            "BKB": 20,
+            "KBG": 90
+        },
+        {
+            "name": "last outer neutral b",
+            "DMG":4,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "dsmash2",
+            "DMG":11,
+            "BKB": 20,
+            "KBG": 80
+        },
+        {
+            "name": "dtilt",
+            "DMG":7,
+            "BKB": 20,
+            "KBG": 80
+        },
+        {
+            "name": "weak fair/bair",
+            "DMG":10,
+            "BKB": 0,
+            "KBG": 80
+        },
+        {
+            "name": "late DA",
+            "DMG":7,
+            "BKB": 20,
+            "KBG": 70
+        },
+        {
+            "name": "jab",
+            "DMG":2,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "din's fire",
+            "DMG":1,
+            "BKB": 40,
+            "KBG": 60
+        },
+        {
+            "name": "early inner neutral b",
+            "DMG":2,
+            "BKB": 12,
+            "KBG": 40
+        },
+        {
+            "name": "early outer neutral b",
+            "DMG":1,
+            "BKB": 12,
+            "KBG": 40
+        }
+    ],
+    "Roy": [
+
+        {
+            "name": "blade dtilt",
+            "DMG":10,
+            "BKB": 90,
+            "KBG": 40
+        },
+        {
+            "name": "hilt/shoulder dtilt",
+            "DMG":12,
+            "BKB": 90,
+            "KBG": 40
+        },
+        {
+            "name": "non-tip fsmash",
+            "DMG":20,
+            "BKB": 80,
+            "KBG": 65
+        },
+        {
+            "name": "usmash (last hit)",
+            "DMG":10,
+            "BKB": 73,
+            "KBG": 90
+        },
+        {
+            "name": "DA",
+            "DMG":12,
+            "BKB": 70,
+            "KBG": 55
+        },
+        {
+            "name": "hilt/shoulder ftilt",
+            "DMG":12,
+            "BKB": 60,
+            "KBG": 70
+        },
+        {
+            "name": "dsmash1 (non-tip)",
+            "DMG":21,
+            "BKB": 42,
+            "KBG": 70
+        },
+        {
+            "name": "near tip ftilt",
+            "DMG":10,
+            "BKB": 60,
+            "KBG": 70
+        },
+        {
+            "name": "tipper dtilt",
+            "DMG":6,
+            "BKB": 70,
+            "KBG": 40
+        },
+        {
+            "name": "dsmash2 (non-tip)",
+            "DMG":16,
+            "BKB": 42,
+            "KBG": 68
+        },
+        {
+            "name": "early shoulder utilt",
+            "DMG":10,
+            "BKB": 35,
+            "KBG": 116
+        },
+        {
+            "name": "late shoulder utilt",
+            "DMG":10,
+            "BKB": 35,
+            "KBG": 116
+        },
+        {
+            "name": "early hilt utilt",
+            "DMG":9,
+            "BKB": 35,
+            "KBG": 118
+        },
+        {
+            "name": "late hilt utilt",
+            "DMG":9,
+            "BKB": 35,
+            "KBG": 118
+        },
+        {
+            "name": "early blade utilt",
+            "DMG":8,
+            "BKB": 35,
+            "KBG": 120
+        },
+        {
+            "name": "late blade utilt",
+            "DMG":8,
+            "BKB": 35,
+            "KBG": 120
+        },
+        {
+            "name": "nair2",
+            "DMG":8,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "tipper dsmash1",
+            "DMG":14,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "blade dair",
+            "DMG":9,
+            "BKB": 40,
+            "KBG": 70
+        },
+        {
+            "name": "tipper fsmash",
+            "DMG":12,
+            "BKB": 30,
+            "KBG": 65
+        },
+        {
+            "name": "tipper dsmash2",
+            "DMG":8,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "bair (non-tip)",
+            "DMG":9,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "tipper dair",
+            "DMG":6,
+            "BKB": 40,
+            "KBG": 70
+        },
+        {
+            "name": "fair (non-tip)",
+            "DMG":8,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "early tipper utilt",
+            "DMG":6,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "late tipper utilt",
+            "DMG":6,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "tipper DA",
+            "DMG":6,
+            "BKB": 35,
+            "KBG": 70
+        },
+        {
+            "name": "tipper ftilt",
+            "DMG":7,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "uair (non-tip)",
+            "DMG":9,
+            "BKB": 20,
+            "KBG": 70
+        },
+        {
+            "name": "side-b 2 (worst case)",
+            "DMG":6,
+            "BKB": 40,
+            "KBG": 60
+        },
+        {
+            "name": "blade jab",
+            "DMG":6,
+            "BKB": 30,
+            "KBG": 60
+        },
+        {
+            "name": "shoulder jab",
+            "DMG":5,
+            "BKB": 30,
+            "KBG": 60
+        },
+        {
+            "name": "tipper bair",
+            "DMG":6,
+            "BKB": 10,
+            "KBG": 70
+        },
+        {
+            "name": "tipper uair",
+            "DMG":6,
+            "BKB": 10,
+            "KBG": 70
+        },
+        {
+            "name": "tipper fair",
+            "DMG":5,
+            "BKB": 10,
+            "KBG": 70
+        },
+        {
+            "name": "nair1",
+            "DMG":4,
+            "BKB": 30,
+            "KBG": 40
+        },
+        {
+            "name": "side-b 1",
+            "DMG":5,
+            "BKB": 40,
+            "KBG": 25
+        },
+        {
+            "name": "tipper jab",
+            "DMG":3,
+            "BKB": 5,
+            "KBG": 60
+        }
+    ],
+    "Mewtwo": [
+
+        {
+            "name": "strong DA",
+            "DMG":9,
+            "BKB": 80,
+            "KBG": 60
+        },
+        {
+            "name": "utilt (early middle)",
+            "DMG":6,
+            "BKB": 70,
+            "KBG": 114
+        },
+        {
+            "name": "utilt (early base)",
+            "DMG":8,
+            "BKB": 70,
+            "KBG": 114
+        },
+        {
+            "name": "nair (last hit)",
+            "DMG":4,
+            "BKB": 70,
+            "KBG": 80
+        },
+        {
+            "name": "utilt (late butt)",
+            "DMG":10,
+            "BKB": 60,
+            "KBG": 114
+        },
+        {
+            "name": "utilt (late base)",
+            "DMG":8,
+            "BKB": 60,
+            "KBG": 114
+        },
+        {
+            "name": "fair",
+            "DMG":14,
+            "BKB": 40,
+            "KBG": 100
+        },
+        {
+            "name": "usmash (last hit)",
+            "DMG":10,
+            "BKB": 40,
+            "KBG": 118
+        },
+        {
+            "name": "utilt (late mid)",
+            "DMG":6,
+            "BKB": 50,
+            "KBG": 114
+        },
+        {
+            "name": "fsmash (tip)",
+            "DMG":20,
+            "BKB": 21,
+            "KBG": 75
+        },
+        {
+            "name": "dsmash",
+            "DMG":15,
+            "BKB": 20,
+            "KBG": 103
+        },
+        {
+            "name": "nair (landing)",
+            "DMG":4,
+            "BKB": 60,
+            "KBG": 70
+        },
+        {
+            "name": "utilt (late tip)",
+            "DMG":5,
+            "BKB": 40,
+            "KBG": 114
+        },
+        {
+            "name": "dtilt (base)",
+            "DMG":9,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "fsmash (hands)",
+            "DMG":12,
+            "BKB": 30,
+            "KBG": 80
+        },
+        {
+            "name": "dtilt (mid)",
+            "DMG":8,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "near ftilt",
+            "DMG":10,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "bair (tip)",
+            "DMG":13,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "utilt (early butt)",
+            "DMG":10,
+            "BKB": 0,
+            "KBG": 115
+        },
+        {
+            "name": "uair (worst case)",
+            "DMG":12,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "bair (mid)",
+            "DMG":11,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt (tip)",
+            "DMG":5,
+            "BKB": 40,
+            "KBG": 80
+        },
+        {
+            "name": "middle ftilt",
+            "DMG":8,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "bair (base)",
+            "DMG":9,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "weak DA",
+            "DMG":6,
+            "BKB": 40,
+            "KBG": 60
+        },
+        {
+            "name": "tipper ftilt",
+            "DMG":5,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "utilt (early tip)",
+            "DMG":5,
+            "BKB": 0,
+            "KBG": 80
+        },
+        {
+            "name": "jab (inf)",
+            "DMG":2,
+            "BKB": 0,
+            "KBG": 70
+        }
+    ],
+    "Pichu": [
+
+        {
+            "name": "uair",
+            "DMG":4,
+            "BKB": 100,
+            "KBG": 60
+        },
+        {
+            "name": "fsmash (last)",
+            "DMG":6,
+            "BKB": 90,
+            "KBG": 140
+        },
+        {
+            "name": "usmash",
+            "DMG":16,
+            "BKB": 50,
+            "KBG": 105
+        },
+        {
+            "name": "dair",
+            "DMG":12,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "strong nair",
+            "DMG":12,
+            "BKB": 18,
+            "KBG": 100
+        },
+        {
+            "name": "dsmash",
+            "DMG":13,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "utilt",
+            "DMG":6,
+            "BKB": 25,
+            "KBG": 120
+        },
+        {
+            "name": "bair",
+            "DMG":9,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "DA",
+            "DMG":8,
+            "BKB": 40,
+            "KBG": 70
+        },
+        {
+            "name": "ftilt (up)",
+            "DMG":9,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (side)",
+            "DMG":8,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "weak nair",
+            "DMG":9,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt",
+            "DMG":7,
+            "BKB": 12,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (down)",
+            "DMG":7,
+            "BKB": 10,
+            "KBG": 100
+        }
+    ],
+    "Kirby": [
+
+        {
+            "name": "grounded side-b (worst case)",
+            "DMG":23,
+            "BKB": 65,
+            "KBG": 76
+        },
+        {
+            "name": "strong DA",
+            "DMG":8,
+            "BKB": 70,
+            "KBG": 66
+        },
+        {
+            "name": "early upsmash",
+            "DMG":15,
+            "BKB": 30,
+            "KBG": 118
+        },
+        {
+            "name": "uair",
+            "DMG":15,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "inner dsmash",
+            "DMG":14,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "strong utilt",
+            "DMG":8,
+            "BKB": 40,
+            "KBG": 118
+        },
+        {
+            "name": "grounded side-b (most likely)",
+            "DMG":16,
+            "BKB": 50,
+            "KBG": 50
+        },
+        {
+            "name": "strong fsmash (early)",
+            "DMG":15,
+            "BKB": 24,
+            "KBG": 96
+        },
+        {
+            "name": "fair3",
+            "DMG":8,
+            "BKB": 30,
+            "KBG": 130
+        },
+        {
+            "name": "above upsmash",
+            "DMG":14,
+            "BKB": 20,
+            "KBG": 100
+        },
+        {
+            "name": "weak utilt",
+            "DMG":6,
+            "BKB": 40,
+            "KBG": 118
+        },
+        {
+            "name": "weak fsmash",
+            "DMG":13,
+            "BKB": 18,
+            "KBG": 96
+        },
+        {
+            "name": "strong bair",
+            "DMG":14,
+            "BKB": 10,
+            "KBG": 100
+        },
+        {
+            "name": "outer dsmash",
+            "DMG":14,
+            "BKB": 20,
+            "KBG": 80
+        },
+        {
+            "name": "ftilt",
+            "DMG":11,
+            "BKB": 8,
+            "KBG": 100
+        },
+        {
+            "name": "weak DA",
+            "DMG":5,
+            "BKB": 50,
+            "KBG": 66
+        },
+        {
+            "name": "nair",
+            "DMG":12,
+            "BKB": 10,
+            "KBG": 80
+        },
+        {
+            "name": "weak bair",
+            "DMG":10,
+            "BKB": 0,
+            "KBG": 100
+        },
+        {
+            "name": "late upsmash",
+            "DMG":13,
+            "BKB": 10,
+            "KBG": 50
+        },
+        {
+            "name": "fair1/2",
+            "DMG":5,
+            "BKB": 30,
+            "KBG": 70
+        },
+        {
+            "name": "dtilt",
+            "DMG":10,
+            "BKB": 40,
+            "KBG": 30
+        },
+        {
+            "name": "jab2",
+            "DMG":4,
+            "BKB": 8,
+            "KBG": 50
+        },
+        {
+            "name": "jab1",
+            "DMG":3,
+            "BKB": 8,
+            "KBG": 50
+        }
+    ],
+    "Bowser": [
+
+        {
+            "name": "strong DA",
+            "DMG":11,
+            "BKB": 120,
+            "KBG": 30
+        },
+        {
+            "name": "up-b first hit",
+            "DMG":13,
+            "BKB": 90,
+            "KBG": 80
+        },
+        {
+            "name": "weak DA",
+            "DMG":8,
+            "BKB": 80,
+            "KBG": 30
+        },
+        {
+            "name": "side-b slash",
+            "DMG":10,
+            "BKB": 80,
+            "KBG": 90
+        },
+        {
+            "name": "up-b first hit (aerial)",
+            "DMG":10,
+            "BKB": 80,
+            "KBG": 60
+        },
+        {
+            "name": "usmash (landing)",
+            "DMG":12,
+            "BKB": 60,
+            "KBG": 100
+        },
+        {
+            "name": "uair",
+            "DMG":17,
+            "BKB": 50,
+            "KBG": 100
+        },
+        {
+            "name": "fsmash",
+            "DMG":24,
+            "BKB": 30,
+            "KBG": 100
+        },
+        {
+            "name": "usmash",
+            "DMG":20,
+            "BKB": 40,
+            "KBG": 86
+        },
+        {
+            "name": "utilt",
+            "DMG":13,
+            "BKB": 40,
+            "KBG": 120
+        },
+        {
+            "name": "dsmash (last hit)",
+            "DMG":10,
+            "BKB": 40,
+            "KBG": 140
+        },
+        {
+            "name": "fair",
+            "DMG":14,
+            "BKB": 50,
+            "KBG": 80
+        },
+        {
+            "name": "ftilt (up)",
+            "DMG":13,
+            "BKB": 29,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (down)",
+            "DMG":11,
+            "BKB": 32,
+            "KBG": 100
+        },
+        {
+            "name": "ftilt (straight)",
+            "DMG":12,
+            "BKB": 25,
+            "KBG": 100
+        },
+        {
+            "name": "dtilt1",
+            "DMG":13,
+            "BKB": 15,
+            "KBG": 100
+        },
+        {
+            "name": "strong bair",
+            "DMG":13,
+            "BKB": 25,
+            "KBG": 80
+        },
+        {
+            "name": "nair",
+            "DMG":13,
+            "BKB": 20,
+            "KBG": 80
+        },
+        {
+            "name": "jab2",
+            "DMG":6,
+            "BKB": 30,
+            "KBG": 110
+        },
+        {
+            "name": "dtilt2",
+            "DMG":10,
+            "BKB": 12,
+            "KBG": 100
+        },
+        {
+            "name": "weak bair",
+            "DMG":9,
+            "BKB": 25,
+            "KBG": 80
+        },
+        {
+            "name": "dair (landing)",
+            "DMG":2,
+            "BKB": 58,
+            "KBG": 30
+        }
+    ]
+}
