@@ -1,6 +1,12 @@
 {
     "Marth": [
         {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
+        {
             "name": "tipper fsmash",
             "DMG":20,
             "BKB": 80,
@@ -212,12 +218,11 @@
         }
     ],
     "Fox": [
-
         {
             "name": "Get-up Attack",
-            "DMG":"6",
-            "BKB": "80",
-            "KBG": "50"
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
         },
         {
             "name": "SideB",
@@ -359,7 +364,12 @@
         }
     ],
     "Falco": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "early fsmash",
             "DMG":17,
@@ -488,7 +498,12 @@
         }
     ],
     "Sheik": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "up-b",
             "DMG":12,
@@ -665,7 +680,18 @@
         }
     ],
     "Puff": [
-
+        {
+            "name": "Get-up Attack (strong hit)",
+            "DMG":8,
+            "BKB": 80,
+            "KBG": 50
+        },
+        {
+            "name": "Get-up Attack (weak hit)",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "pound",
             "DMG":13,
@@ -776,7 +802,12 @@
         }
     ],
     "Peach": [
-
+        {
+            "name": "Get-up Attack (strongest)",
+            "DMG":8,
+            "BKB": 70,
+            "KBG": 50
+        },
         {
             "name": "club (tipper)",
             "DMG":17,
@@ -929,7 +960,12 @@
         }
     ],
     "Falcon": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "landing down-b",
             "DMG":9,
@@ -1118,7 +1154,12 @@
         }
     ],
     "ICs": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "DA",
             "DMG":9,
@@ -1334,7 +1375,18 @@
         }
     ],
     "Samus": [
-
+        {
+            "name": "Get-up Attack (front strongest)",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
+        {
+            "name": "Get-up Attack (back)",
+            "DMG":8,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "dsmash1",
             "DMG":16,
@@ -1487,7 +1539,12 @@
         }
     ],
     "Yoshi": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "utilt",
             "DMG":10,
@@ -1634,7 +1691,12 @@
         }
     ],
     "Pikachu": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "early uair",
             "DMG":4,
@@ -1751,7 +1813,12 @@
         }
     ],
     "Luigi": [
-
+        {
+            "name": "Get-up Attack (strongest)",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "misfire",
             "DMG":25,
@@ -1874,7 +1941,12 @@
         }
     ],
     "Doc": [
-
+        {
+            "name": "Get-up Attack (strongest)",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "down-b last hit",
             "DMG":4,
@@ -2009,7 +2081,12 @@
         }
     ],
     "Mario": [
-
+        {
+            "name": "Get-up Attack (strongest)",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "strong DA",
             "DMG":9,
@@ -2120,7 +2197,12 @@
         }
     ],
     "YL": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "dtilt (non-meteor tip)",
             "DMG":7,
@@ -2249,7 +2331,12 @@
         }
     ],
     "GnW": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "bair (landing)",
             "DMG":3,
@@ -2378,7 +2465,12 @@
         }
     ],
     "Ganondorf": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "utilt",
             "DMG":27,
@@ -2531,7 +2623,12 @@
         }
     ],
     "Link": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "usmash3",
             "DMG":10,
@@ -2708,7 +2805,12 @@
         }
     ],
     "DK": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "up-b hit1 grounded",
             "DMG":12,
@@ -2813,7 +2915,12 @@
         }
     ],
     "Ness": [
-
+        {
+            "name": "Get-up Attack (strongest)",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "DA3",
             "DMG":4,
@@ -2963,7 +3070,12 @@
         }
     ],
     "Zelda": [
-
+        {
+            "name": "Get-up Attack (strongest)",
+            "DMG":8,
+            "BKB": 70,
+            "KBG": 50
+        },
         {
             "name": "early head DA",
             "DMG":13,
@@ -3086,7 +3198,12 @@
         }
     ],
     "Roy": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "blade dtilt",
             "DMG":10,
@@ -3317,7 +3434,18 @@
         }
     ],
     "Mewtwo": [
-
+        {
+            "name": "Get-up Attack (back)",
+            "DMG":5,
+            "BKB": 80,
+            "KBG": 50
+        },
+        {
+            "name": "Get-up Attack (front)",
+            "DMG":7,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "strong DA",
             "DMG":9,
@@ -3488,7 +3616,12 @@
         }
     ],
     "Pichu": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "uair",
             "DMG":4,
@@ -3575,7 +3708,12 @@
         }
     ],
     "Kirby": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "grounded side-b (worst case)",
             "DMG":23,
@@ -3716,7 +3854,12 @@
         }
     ],
     "Bowser": [
-
+        {
+            "name": "Get-up Attack",
+            "DMG":6,
+            "BKB": 80,
+            "KBG": 50
+        },
         {
             "name": "strong DA",
             "DMG":11,

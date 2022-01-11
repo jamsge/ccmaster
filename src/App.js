@@ -147,7 +147,7 @@ class App extends React.Component{
     return (
       <div>
         <h1 style={{paddingTop:50, paddingBottom:30}} className="Title">
-          "You don't CC enough!"
+          CC % calculator
         </h1>
         <Container fluid>
           <Row className="justify-content-md-center">
@@ -237,10 +237,10 @@ class App extends React.Component{
                         return(
                           <tr key = {i}>
                             <td>{el.name}</td>
-                            <td>{el.cc}</td>
-                            <td>{el.asdi}</td>
-                            <td>{el.ccfs}</td>
-                            <td>{el.asdifs}</td>
+                            <td style={{backgroundColor:(el.cc < 0)?"#FFCCCB":""}}>{el.cc}</td>
+                            <td style={{backgroundColor:(el.asdi < 0)?"#FFCCCB":""}}>{el.asdi}</td>
+                            <td style={{backgroundColor:(el.ccfs < 0)?"#FFCCCB":""}}>{el.ccfs}</td>
+                            <td style={{backgroundColor:(el.asdifs < 0)?"#FFCCCB":""}}>{el.asdifs}</td>
                           </tr>
                         )
                       })
@@ -254,7 +254,20 @@ class App extends React.Component{
             <Card>
               <Card.Body>
                 <Card.Title>
-                  Other information
+                  Changelog
+                </Card.Title>
+                <Card.Text>
+                  <b>1/10/2022</b>
+                  <br />
+                  - Migrated the site (unfortunately lost some progress)
+                  <br />
+                  - Added get-up attack percents.
+                  <br />
+                  I highly recommend viewing <a href="https://www.youtube.com/watch?v=0FOISsr2c0k&ab_channel=RadarSSBM">Radar's video</a> on CCing getup-attack as well as <a href="https://docs.google.com/spreadsheets/d/1mQGT6vAY0QHUZFooUCbqlinK849rrZDCNxeuDN6ZNw4/edit#gid=648677620">the handy spreadsheet</a> that comes along with it. The values you see here don't account for multihits, and I feel that they also don't give full context to CCing getup-attack on their own.
+
+                </Card.Text>
+                <Card.Title>
+                  About this calculator
                 </Card.Title>
                 <Card.Text>
                   Hi! I'm jams, and this is my crouch-cancel tool :) made with ReactJS and React-Bootstrap! 
@@ -265,9 +278,7 @@ class App extends React.Component{
                   <br />
                   Huge credit to cagliostro9 for creating <a href="https://docs.google.com/spreadsheets/d/1Z0RT4gCmgK6Cn3-2GSSWSMbLySD5-UsaagDaNF9EZqk/htmlview#">this huge spreadsheet</a> which I yoinked lots of information from.
                   <br />
-                  This site is still under construction, so expect broken stuff as well as new features to come.
-                  <br />
-                  If you have any questions, feel free to shoot me something on discord (jams#1008)!
+                  If you have any questions, suggestions, or just notice something's wrong, feel free to shoot me something on discord (jams#1008)! I have mostly ceased working on this project but I still come back every once in a while to fix things and add new stuff.
                 </Card.Text>
               </Card.Body>
             </Card>
